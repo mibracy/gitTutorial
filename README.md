@@ -1,2 +1,2 @@
-# gitTutorial
-This is a demo repo to teach people how to git
+# Welcome
+This branch contains all the tutorial information needed to learn git
