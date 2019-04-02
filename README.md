@@ -1,2 +1,2 @@
 # gitTutorial
-This is a demo repo to help someone learn how to git
+This is a demo repo to teach people how to git
