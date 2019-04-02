@@ -1,0 +1,8 @@
+To update all new, modified, or deleted files to a commit use
+  git add .
+
+To update just a single file
+  git add <filename>
+  
+To remove a file 
+  git rm <filename>
